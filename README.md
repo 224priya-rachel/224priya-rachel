@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @224priya-rachel. I am a Computer Engineer from India.
-- 👀 I’m interested in developing java and python projects and also web development. 
-- 🌱 I’m currently learning algorithms in machine learning and neural networks.
-- 💞️ I’m looking to collaborate on various projects in java/python or web development.
-- 📫 How to reach me: 
+-  💞️ Hi, I’m Priya Bachan (@224priya-rachel) — a Computer Engineer from India, soon pursuing my MS in Artificial Intelligence in Germany.
+-  👩‍💻 Professional Experience: Former Data Quality Analyst, ensuring accuracy, consistency, and reliability of large datasets to support analytics and decision-making.
+-  👀 Passionate about AI in neuroscience, especially computational neuroscience and AI/ML applications.
+-  🌱 Currently exploring machine learning algorithms, neural networks, and LangChain-powered LLM pipelines.
+-  💞️ Open to collaborating on AI/ML projects, academic writing support tools, and innovative SaaS applications.
+-  📫 How to reach me: 
                      email- bachanpriya20@gmail.com 
                      LinkedIn- https://www.linkedin.com/in/priya-bachan-36b02b181 
 
